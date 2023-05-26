@@ -1,0 +1,6 @@
+[run]
+source = vlad
+omit = 
+    tests/*
+    autoapp.py
+
